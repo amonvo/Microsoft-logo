@@ -1,0 +1,26 @@
+*{
+    overflow: hidden;
+}
+.microsoft-logo{
+    width: 360px;
+    margin: 20px auto;
+}
+.square.red{
+    background-color: #f35325;
+}
+.square.green{
+    background-color: #81dc06;
+}
+.square.blue{
+    background-color: #08a6f0;
+}
+.square.yellow{
+    background-color: #ffba08;
+}
+
+.square{
+    width: 120px;
+    height: 120px;
+    margin: 0px 10px 10px 0;
+    float: left;
+}
